@@ -1,0 +1,1 @@
+# windows_bginfo_config
